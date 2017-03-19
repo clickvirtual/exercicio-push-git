@@ -4,4 +4,4 @@ Criando a primeira versão do git
 
 Criando mais um commit de texte
 
-
+Criando outro commit para o relase 0.2.0
