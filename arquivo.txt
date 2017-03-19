@@ -1,1 +1,3 @@
 Arquivo do exercico de git
+
+Criando a primeira versão do git
